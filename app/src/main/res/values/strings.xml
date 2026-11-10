@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Practica2</string>
+    <string name="app_name">Registro de Usuarios</string>
+    <string name="titulo_registro">Registro de Usuarios</string>
+    <string name="descripcion_icono_usuario">Icono de usuario</string>
+
+    <string name="hint_nombres">Nombres</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="hint_tipo_documento">Tipo de documento</string>
+    <string name="hint_identificacion">Número de identificación</string>
+
+    <string name="seccion_genero">Género</string>
+    <string name="genero_hombre">Hombre</string>
+    <string name="genero_mujer">Mujer</string>
+    <string name="genero_otro">Otro</string>
+
+    <string name="seccion_fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="hint_dia">Día</string>
+    <string name="hint_mes">Mes</string>
+    <string name="hint_anio">Año</string>
+
+    <string name="hint_telefono">Teléfono</string>
+    <string name="accion_grabar">Grabar</string>
 </resources>
