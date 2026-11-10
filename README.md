@@ -25,6 +25,7 @@ El botón forma parte únicamente del diseño de la interfaz, ya que la práctic
 - `app/src/main/res/values/strings.xml`: textos de la interfaz.
 - `app/src/main/res/values/arrays.xml`: opciones de los menús desplegables.
 - `app/src/main/res/drawable/`: iconos utilizados en el formulario.
+- `evidencias/`: capturas de pantalla de la aplicación.
 
 ## Tecnologías
 
@@ -36,7 +37,19 @@ El botón forma parte únicamente del diseño de la interfaz, ya que la práctic
 
 ## Evidencias
 
-Las capturas de la aplicación se agregarán en la carpeta `evidencias/` al finalizar la práctica.
+Capturas tomadas desde el emulador con el formulario completado y los menús desplegables en funcionamiento.
+
+### Formulario completado
+
+<p align="center">
+  <img src="evidencias/registro.png" alt="Formulario de registro completado" width="320">
+</p>
+
+### Menús desplegables
+
+| Tipo de documento | Día | Mes | Año |
+|:---:|:---:|:---:|:---:|
+| <img src="evidencias/tipo_doc.png" alt="Selección del tipo de documento" width="190"> | <img src="evidencias/dia.png" alt="Selección del día" width="190"> | <img src="evidencias/mes.png" alt="Selección del mes" width="190"> | <img src="evidencias/anio.png" alt="Selección del año" width="190"> |
 
 ## Ejecución
 
