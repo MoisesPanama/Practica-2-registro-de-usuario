@@ -6,4 +6,6 @@
     <color name="color_on_primary_container">#00201D</color>
     <color name="color_secondary">#4A635F</color>
     <color name="color_on_secondary">#FFFFFFFF</color>
+    <color name="color_hombre">#1565C0</color>
+    <color name="color_mujer">#D81B60</color>
 </resources>
